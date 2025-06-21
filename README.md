@@ -48,6 +48,11 @@ I'm a Business Mathematics student at HTW Berlin, currently deepening my studies
 - [LinkedIn](https://linkedin.com/in/prudence-kinda-koech-972631211)
 - Email: prukoech@gmail.com
 
+## 📊 GitHub Stats
+
+![Prudence's GitHub stats](https://github-readme-stats.vercel.app/api?username=prukoech&show_icons=true&theme=tokyonight)
+
+
 ---
 
 > “Turning data into actionable insights for a smarter financial future.”
