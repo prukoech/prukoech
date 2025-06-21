@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prudence Kinda Koech!
 
 🎓 **Business Mathematics Bachelor Student at HTW Berlin**  
-💻 **Aspiring Data Analyst | Passionate about Finance & Automation**
+💻 **Aspiring Data Analyst/Risk Manager | Passionate about Finance & Automation**
 
 ---
 
