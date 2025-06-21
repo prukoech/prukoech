@@ -51,6 +51,7 @@ I'm a Business Mathematics student at HTW Berlin, currently deepening my studies
 ## 📊 GitHub Stats
 
 ![Prudence's GitHub stats](https://github-readme-stats.vercel.app/api?username=prukoech&show_icons=true&theme=tokyonight)
+![Visitor Badge](https://komarev.com/ghpvc/?username=prukoech)
 
 
 ---
